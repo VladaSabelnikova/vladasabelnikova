@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there!
+#### I am a Python backend developer and here is mine technology stack:
+* AsyncIO, AIOHTTP
+* FastAPI, Flask, Django
+* Postgres (+ sqlalchemy)
+* ElasticSearch-Kibana-Logstash (ELK)
+* Redis (+ aioredis library)
+* ApacheKafka (+ aiokafka library)
+* RabbitMQ (+ aiopika library)
+* Nginx
+* MongoDB (+ motor library)
+* ClickHouse
+* Docker, docker-compose
+* Jaeger
+* HashiCorp Vault
 
-<!--
-**VladaSabelnikova/vladasabelnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Also:
+* I know how to work according to the principles of SOLID
+* I strictly monitor the quality of the code using linters (mypy, wemake-python-styleguide, flake8)
+* I know how to work with CI/CD
