@@ -1,20 +1,33 @@
-### Hi there!
-#### I am a Python backend developer and here is mine technology stack:
-* AsyncIO, AIOHTTP
-* FastAPI, Flask, Django
-* Postgres (+ sqlalchemy)
-* ElasticSearch-Kibana-Logstash (ELK)
-* Redis (+ aioredis library)
-* ApacheKafka (+ aiokafka library)
-* RabbitMQ (+ aiopika library)
-* Nginx
-* MongoDB (+ motor library)
-* ClickHouse
-* Docker, docker-compose
-* Jaeger
-* HashiCorp Vault
+### Навыки
 
-#### Also:
-* I know how to work according to the principles of SOLID
-* I strictly monitor the quality of the code using linters (mypy, wemake-python-styleguide, flake8)
-* I know how to work with CI/CD
+•	Свободно пишу асинхронный код на Python 3.8 + (asyncio)
+
+
+•	Имею практический опыт работы с FastAPI, AIOHTTP, Flask
+
+
+•	Проектирую архитектуру безопасности проектов на основе Hashicorp Vault
+
+
+•	Работаю с хранилищами PostgreSQL, MongoDB, Redis, ElasticSearch, ClickHouse
+
+
+•	Разрабатываю микросервисы, управляемые событиями, на основе Apache Kafka и RabbitMQ
+
+
+•	Пишу промышленный код:
+-	структурированный по SOLID
+-	c логированием в ELK
+-	с трассировкой в Jaeger
+-	покрытый тестами pytest, mypy, wemake-python-styleguide
+-	документированный в Swagger и PlantUML
+
+
+•	Имею опыт аналитики и декомпозиции задач с нуля (от заказчика), создания ТЗ (постановки задачи)
+
+
+•	Имею опыт управления коллективом (командой)
+
+
+### О себе
+Умею придумывать (генерировать продуктивную идею). Люблю сложные нестандартные задачи. 
