@@ -1,4 +1,4 @@
-### Навыки
+#### Skills and stack
 
 +	Свободно пишу асинхронный код на Python 3.8 + (asyncio)
 +	Имею практический опыт работы с FastAPI, AIOHTTP, Flask
